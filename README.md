@@ -1,1 +1,2 @@
 # StudyWithMeAI
+StudyWithMeAI is an innovative project designed to enhance your learning experience by leveraging the power of artificial intelligence. This application allows users to input subject information, and in return, the AI generates insightful and challenging questions tailored to the provided content. Whether you're preparing for exams, reinforcing your understanding of a topic, or simply seeking a dynamic study companion, StudyWithMeAI is here to elevate your learning journey.
